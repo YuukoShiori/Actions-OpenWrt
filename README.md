@@ -1,4 +1,4 @@
-针对小米路由器 Mini 而优化的 OpenWrt
+针对小米路由器 Mini 而优化的 OpenWrt。不定期编译。
 
 [Lean 仓库地址](https://github.com/coolsnowwolf/lede)
 
